@@ -1,0 +1,1 @@
+python multithreads.py >> log/file.log
